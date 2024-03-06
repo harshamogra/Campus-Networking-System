@@ -29,8 +29,3 @@ This project aims to provide a tangible demonstration of Cisco networking techno
 - Device Configurations
 - User Manuals
 
-## Feedback and Support
-
-For any questions, feedback, or support, please reach out to [your contact information].
-
-Thank you for using the "Campus Networking System" project. We hope it enhances your understanding of Cisco networking in an educational context.
